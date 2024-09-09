@@ -1,0 +1,3 @@
+<?php
+    $starttime = microtime(true);
+?>
